@@ -1,0 +1,4 @@
+pytube
+gtts
+playsound
+speech_recognition
